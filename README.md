@@ -1,24 +1,7 @@
-# README
+# AC VALE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+AC_Vale is an institutional website of AC Vale business. Builded by rubiti.com in Ruby on Rails and related technologies.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contact rubiti.com at:
+email: contato@rubiti.com
+Website: www.rubiti.com
