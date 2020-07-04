@@ -1,0 +1,18 @@
+# TESTS PLANNING
+- Home Page
+  - Page load
+  - CRUD
+- Portfolio
+  - Page load
+  - CRUD
+- About US
+  - Page load
+  - CRUD
+- Contact
+  - Page load
+  - email sending
+- Admin
+  - authentication
+  - Permissions
+  - Page load
+  - Media storage  
