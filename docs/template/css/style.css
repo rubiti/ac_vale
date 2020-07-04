@@ -1,0 +1,17 @@
+/*
+header p, header h2 {
+  color: #fff;
+}
+*/
+
+header {
+  height: 100%;
+  background: black;
+  overflow: hidden;
+  color: #fff;
+}
+
+img {
+ object-fit: cover;
+ opacity: 0.6;
+}
