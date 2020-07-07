@@ -1,18 +1,26 @@
-/*
-header p, header h2 {
-  color: #fff;
-}
-*/
-
 header {
-  height: 100%;
-  width: 100vw;
-  background: black;
-  
-  color: #fff;
+  background-image: url('../images/steel.jpg');
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: relative;
 }
-
-img {
- object-fit: cover;
- opacity: 0.5;
+  header::before {
+    content: '';
+    background-color: #000000;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+.w3-top {
+  background-color: #e6ce1b;
+}
+.hero {
+  position: relative;
+}
+.link-button {
+  background-color: #e6ce1b;
+  color: #000000;
 }
